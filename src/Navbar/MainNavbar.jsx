@@ -9,7 +9,7 @@ const MainNavbar = () => {
         <div className="navbar bg-base-100 mb-4">
             <div className="flex-1">
                 <img src={logo} alt="logo" className='h-16 contrast-75' />
-                <input type="text" className='bg-lime-300 bg-opacity-40 ml-5 w-[30%] px-3 py-2 rounded-lg' placeholder='Search' />
+                <input type="text" className='bg-lime-200 bg-opacity-40 ml-5 w-[30%] px-3 py-2 rounded-lg' placeholder='Search' />
                 <FaSearch className='text-gray-300 w-5 h-5 absolute left-[38%]'></FaSearch>
             </div>
             <div className="flex-none">

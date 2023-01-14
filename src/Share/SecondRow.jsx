@@ -37,7 +37,7 @@ const SecondRow = () => {
                                 <td><label for="Toggle1" className="inline-flex items-center cursor-pointer  text-gray-100">
                                     <span className="relative">
                                         <input id="Toggle1" type="checkbox" className="hidden peer" />
-                                        <div className="w-10 h-5 rounded-full shadow-inner  bg-lime-300 bg-opacity-70 peer-checked: "></div>
+                                        <div className="w-10 h-5 rounded-full shadow-inner  button bg-opacity-70 peer-checked: "></div>
                                         <div className="absolute inset-y-0 left-0 w-3 h-3 m-1 rounded-full shadow peer-checked:right-0 peer-checked:left-auto bg-gray-800"></div>
                                     </span>
                                 </label></td>
@@ -58,7 +58,7 @@ const SecondRow = () => {
                                 <td><label for="Toggle1" className="inline-flex items-center cursor-pointer  text-gray-100">
                                     <span className="relative">
                                         <input id="Toggle1" type="checkbox" className="hidden peer" />
-                                        <div className="w-10 h-5 rounded-full shadow-inner  bg-lime-300 bg-opacity-70 peer-checked: "></div>
+                                        <div className="w-10 h-5 rounded-full shadow-inner  button bg-opacity-70 peer-checked: "></div>
                                         <div className="absolute inset-y-0 left-0 w-3 h-3 m-1 rounded-full shadow peer-checked:right-0 peer-checked:left-auto bg-gray-800"></div>
                                     </span>
                                 </label></td>
@@ -78,7 +78,7 @@ const SecondRow = () => {
                                 <td><label for="Toggle1" className="inline-flex items-center cursor-pointer  text-gray-100">
                                     <span className="relative">
                                         <input id="Toggle1" type="checkbox" className="hidden peer" />
-                                        <div className="w-10 h-5 rounded-full shadow-inner  bg-lime-300 bg-opacity-70 peer-checked: "></div>
+                                        <div className="w-10 h-5 rounded-full shadow-inner  button bg-opacity-70 peer-checked: "></div>
                                         <div className="absolute inset-y-0 left-0 w-3 h-3 m-1 rounded-full shadow peer-checked:right-0 peer-checked:left-auto bg-gray-800"></div>
                                     </span>
                                 </label></td>
@@ -99,7 +99,7 @@ const SecondRow = () => {
                                 <td><label for="Toggle1" className="inline-flex items-center cursor-pointer  text-gray-100">
                                     <span className="relative">
                                         <input id="Toggle1" type="checkbox" className="hidden peer" />
-                                        <div className="w-10 h-5 rounded-full shadow-inner  bg-lime-300 bg-opacity-70 peer-checked: "></div>
+                                        <div className="w-10 h-5 rounded-full shadow-inner  button bg-opacity-70 peer-checked: "></div>
                                         <div className="absolute inset-y-0 left-0 w-3 h-3 m-1 rounded-full shadow peer-checked:right-0 peer-checked:left-auto bg-gray-800"></div>
                                     </span>
                                 </label></td>

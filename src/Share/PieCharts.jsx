@@ -61,7 +61,7 @@ const PieCharts = () => {
 
     return (
         <div className='grid lg:grid-cols-6 grid-cols-1 gap-5 bg-white p-3 rounded-lg'>
-            <div className=' lg:p-2 p-0 rounded-md col-span-2 bg-lime-300 bg-opacity-40'>
+            <div className=' lg:p-2 p-0 rounded-md col-span-2 bg-lime-200 bg-opacity-40'>
                 <div className='pl-3'>
                     <h1 className='text-md font-bold'>Organizations By Industry</h1>
                     <p className='text-sm font-semibold text-gray-500 mb-2'>Lorem ipsum dolor sit amet.</p>

@@ -27,7 +27,7 @@ const SidebarTwo = () => {
                         </div>
                         <p className='text-xs my-1'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis minima delectus autem. Vitae aliquam.</p>
                         <div className='flex justify-between'>
-                            <button className='bg-lime-300 bg-opacity-70 py-1 px-2 font-semibold'>Browser</button>
+                            <button className='button py-1 px-2 font-semibold'>Browser</button>
                             <button className='bg-gray-300 bg-opacity-50 py-1 px-2 font-semibold border-2 border-gray-400' >Add to Reminder</button>
                         </div>
                     </div>
@@ -41,7 +41,7 @@ const SidebarTwo = () => {
                         </div>
                         <p className='text-xs my-1'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis minima delectus autem. Vitae aliquam.</p>
                         <div className='flex justify-between'>
-                            <button className='bg-lime-300 bg-opacity-70 py-1 px-2 font-semibold'>Browser</button>
+                            <button className='button py-1 px-2 font-semibold'>Browser</button>
                             <button className='bg-gray-300 bg-opacity-50 py-1 px-2 font-semibold border-2 border-gray-400' >Add to Reminder</button>
                         </div>
                     </div>
@@ -55,7 +55,7 @@ const SidebarTwo = () => {
                         </div>
                         <p className='text-xs my-1'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis minima delectus autem. Vitae aliquam.</p>
                         <div className='flex justify-between'>
-                            <button className='bg-lime-300 bg-opacity-70 py-1 px-2 font-semibold'>Browser</button>
+                            <button className='button py-1 px-2 font-semibold'>Browser</button>
                             <button className='bg-gray-300 bg-opacity-50 py-1 px-2 font-semibold border-2 border-gray-400' >Add to Reminder</button>
                         </div>
                     </div>
@@ -69,7 +69,7 @@ const SidebarTwo = () => {
                         </div>
                         <p className='text-xs my-1'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis minima delectus autem. Vitae aliquam.</p>
                         <div className='flex justify-between'>
-                            <button className='bg-lime-300 bg-opacity-70 py-1 px-2 font-semibold'>Browser</button>
+                            <button className='button py-1 px-2 font-semibold'>Browser</button>
                             <button className='bg-gray-300 bg-opacity-50 py-1 px-2 font-semibold border-2 border-gray-400' >Add to Reminder</button>
                         </div>
                     </div>
